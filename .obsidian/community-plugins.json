@@ -1,8 +1,7 @@
 [
   "calendar",
-  "colored-tags",
   "file-explorer-note-count",
-  "code-styler",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "colored-tags"
 ]
