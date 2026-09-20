@@ -4,24 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "fbcae985911d90bd",
+        "id": "2e0fa839b1f8e6d9",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ce34ecce62b52d",
+            "id": "0e0048ef6cc6e98f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-20 02.49.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-20 02.49.02.excalidraw"
+            }
+          },
+          {
+            "id": "e153b9697d5232a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Halo Tes.md",
+                "file": "SDE MID ROADMAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Halo Tes"
+              "title": "SDE MID ROADMAP"
+            }
+          },
+          {
+            "id": "3f4c54cc42d33124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mid-Level Software Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mid-Level Software Engineer"
+            }
+          },
+          {
+            "id": "e055bf860b348b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase1/Variables & Data Types dalam JavaScript.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables & Data Types dalam JavaScript"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -33,7 +74,7 @@
       {
         "id": "b81567c6d75a5141",
         "type": "tabs",
-        "dimension": 76.58333333333334,
+        "dimension": 62.05266711681296,
         "children": [
           {
             "id": "2ab4e7bde371e791",
@@ -81,13 +122,13 @@
             }
           },
           {
-            "id": "c0bdbbee322214a6",
+            "id": "659e61747c7e9798",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
+              "type": "runjs-codelist-view",
               "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "icon": "js-dark-icon",
+              "title": "RunJS Codelist"
             }
           }
         ],
@@ -96,7 +137,7 @@
       {
         "id": "00c2b70fc2dabed5",
         "type": "tabs",
-        "dimension": 23.416666666666668,
+        "dimension": 37.94733288318704,
         "children": [
           {
             "id": "0368e6807317d521",
@@ -112,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "664ff7002a1beafb",
@@ -129,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Halo Tes.md",
+                "file": "Mid-Level Software Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Halo Tes.md",
+                "file": "Mid-Level Software Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,8 +204,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -191,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halo Tes.md",
+                "file": "Mid-Level Software Engineer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,7 +258,7 @@
       {
         "id": "7f68c22e38e7cbbe",
         "type": "tabs",
-        "dimension": 29.5016077170418,
+        "dimension": 29.501607717041797,
         "children": [
           {
             "id": "644ad296f4e99d7e",
@@ -243,15 +285,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "runjs:RunJS": false
     }
   },
-  "active": "c9ce34ecce62b52d",
+  "active": "66ef7e966eb65358",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Mid-Level Software Engineer.md",
+    "Phase1/Variables & Data Types dalam JavaScript.md",
+    "Phase1",
+    "SDE MID ROADMAP.md",
+    "Excalidraw/Drawing 2026-09-20 02.49.02.excalidraw.md",
     "Halo Tes.md",
+    "Excalidraw",
+    "Welcome.md",
     "2026-W39.md",
     "2026-09-20.md",
     "Untitled.base"
