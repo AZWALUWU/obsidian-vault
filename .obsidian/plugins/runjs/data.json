@@ -1,0 +1,26 @@
+{
+  "autoRefresh": true,
+  "autostarts": [],
+  "commands": {},
+  "ribbonIcons": [],
+  "eventHandlers": [],
+  "scriptsFolder": "Scripts_RunJS",
+  "logFilePath": "",
+  "logConsole": true,
+  "logNotice": true,
+  "logFile": false,
+  "listviewOpenType": "tab",
+  "listviewSortField": "name",
+  "listviewSortAsc": false,
+  "listviewFilters": {
+    "type": [
+      "script",
+      "module"
+    ],
+    "form": [
+      "codeblock"
+    ]
+  },
+  "listviewCollapse": {},
+  "favoriteCodes": []
+}
